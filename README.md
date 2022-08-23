@@ -1,2 +1,2 @@
 # geojson-api
-api for get geojson by cadastral number
+API for getting geojson by cadastral number
